@@ -1,3 +1,2 @@
 # Results
-Nothing. 
-
+This is the results section of the paper.
